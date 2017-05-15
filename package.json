@@ -1,0 +1,15 @@
+{
+  "author": "Zied Ben Rhouma",
+  "license": "GPL-V3",
+  "name": "awscred-cli",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "awscred-cli": "bin/awscred-cli.js"
+  },
+  "dependencies": {
+    "awscred": "~1.2.0"
+  },
+  "main" : "./lib/index.js",
+  "preferGlobal": "true"
+}
